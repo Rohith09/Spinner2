@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Spinner</string>
+    <string name="Games">Games:</string>
+    <string-array name="spiner">
+
+        <item>Cricket</item>
+        <item>Football</item>
+        <item>Basketball</item>
+        <item>Pool</item>
+
+    </string-array>
+
+</resources>
