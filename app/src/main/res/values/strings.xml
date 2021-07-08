@@ -2,7 +2,7 @@
     <string name="app_name">Spinner</string>
     <string name="Games">Games:</string>
     <string-array name="spiner">
-
+        <item>choose any game</item>
         <item>Cricket</item>
         <item>Football</item>
         <item>Basketball</item>
